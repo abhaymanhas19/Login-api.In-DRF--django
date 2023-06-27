@@ -1,0 +1,3698 @@
+[
+    {
+        "model": "organization.organization",
+        "pk": 1,
+        "fields": {
+            "name": "Network Hill Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 2,
+        "fields": {
+            "name": "Solutions Alpha Studio",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 3,
+        "fields": {
+            "name": "Studio Industries",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 4,
+        "fields": {
+            "name": "Application Software Hardware",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 5,
+        "fields": {
+            "name": "Graphics Direct Contract",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 6,
+        "fields": {
+            "name": "Research Internet",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 7,
+        "fields": {
+            "name": "Federated Hill",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 8,
+        "fields": {
+            "name": "Omega Analysis Virtual",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 9,
+        "fields": {
+            "name": "Vision Venture Pacific",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 10,
+        "fields": {
+            "name": "Direct Vision Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 11,
+        "fields": {
+            "name": "Speed Architecture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 12,
+        "fields": {
+            "name": "Bell Advanced Research",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 13,
+        "fields": {
+            "name": "People Galaxy South",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 14,
+        "fields": {
+            "name": "Solutions Bell West",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 15,
+        "fields": {
+            "name": "Electronic Telecom",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 16,
+        "fields": {
+            "name": "Speed Solutions",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 17,
+        "fields": {
+            "name": "People Federated General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 18,
+        "fields": {
+            "name": "East Medicine",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 19,
+        "fields": {
+            "name": "Virtual Contract Graphics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 20,
+        "fields": {
+            "name": "Solutions Star Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 1234,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 21,
+        "fields": {
+            "name": "West Atlantic General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 1889,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 22,
+        "fields": {
+            "name": "Graphics Hill",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 8912,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 23,
+        "fields": {
+            "name": "Data Industries Max",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 24,
+        "fields": {
+            "name": "Alpha Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 25,
+        "fields": {
+            "name": "Hardware Frontier Omega",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 26,
+        "fields": {
+            "name": "Network Construction Omega",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 27,
+        "fields": {
+            "name": "Adventure Building Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 28,
+        "fields": {
+            "name": "Future Digital",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 29,
+        "fields": {
+            "name": "Star Speed Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 30,
+        "fields": {
+            "name": "Vision Internet",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 31,
+        "fields": {
+            "name": "Application Technology",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 32,
+        "fields": {
+            "name": "Electronics Max",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 33,
+        "fields": {
+            "name": "Telecom Solutions",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 34,
+        "fields": {
+            "name": "Solutions Digital Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 35,
+        "fields": {
+            "name": "Provider South Max",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 36,
+        "fields": {
+            "name": "Galaxy Provider Studio",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 37,
+        "fields": {
+            "name": "General Alpha Application",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 38,
+        "fields": {
+            "name": "Power West Building",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 39,
+        "fields": {
+            "name": "Network Contract Construction",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 40,
+        "fields": {
+            "name": "Vision Studio Data",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 41,
+        "fields": {
+            "name": "Bell Graphics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 42,
+        "fields": {
+            "name": "Adventure Medicine Advanced",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 43,
+        "fields": {
+            "name": "Internet Power Consulting",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 44,
+        "fields": {
+            "name": "Federated Hill Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 45,
+        "fields": {
+            "name": "Signal Software Consulting",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 46,
+        "fields": {
+            "name": "Universal Data Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 47,
+        "fields": {
+            "name": "Electronics Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 48,
+        "fields": {
+            "name": "Solutions Resource",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 49,
+        "fields": {
+            "name": "Industries Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 50,
+        "fields": {
+            "name": "Telecom Graphics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 51,
+        "fields": {
+            "name": "Max Vision",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 52,
+        "fields": {
+            "name": "General Architecture Analysis",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 53,
+        "fields": {
+            "name": "Solutions Net Architecture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 54,
+        "fields": {
+            "name": "Net Future Max",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 55,
+        "fields": {
+            "name": "Star Solutions Telecom",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 56,
+        "fields": {
+            "name": "Internet Architecture Resource",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 57,
+        "fields": {
+            "name": "Source Alpha Research",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 58,
+        "fields": {
+            "name": "Analysis Telecom",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 59,
+        "fields": {
+            "name": "Virtual Max Network",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 60,
+        "fields": {
+            "name": "Consulting Industries Future",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 61,
+        "fields": {
+            "name": "Consulting Bell Technology",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 62,
+        "fields": {
+            "name": "Speed Advanced",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 63,
+        "fields": {
+            "name": "Data Studio Industries",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 64,
+        "fields": {
+            "name": "Omega Digital Pacific",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 65,
+        "fields": {
+            "name": "Consulting Digital Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 66,
+        "fields": {
+            "name": "Technology Hill Pacific",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 67,
+        "fields": {
+            "name": "Contract South Direct",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 68,
+        "fields": {
+            "name": "Omega Speed Vision",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 69,
+        "fields": {
+            "name": "Data People Advanced",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 70,
+        "fields": {
+            "name": "Virtual Innovation Advanced",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 71,
+        "fields": {
+            "name": "Adventure Research Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 72,
+        "fields": {
+            "name": "Electronics Future",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 73,
+        "fields": {
+            "name": "Max Atlantic Venture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 74,
+        "fields": {
+            "name": "Provider North Digital",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 75,
+        "fields": {
+            "name": "Star Innovation Industries",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 76,
+        "fields": {
+            "name": "Adventure Federated",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 77,
+        "fields": {
+            "name": "Galaxy Omega Alpha",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 78,
+        "fields": {
+            "name": "Building Net Venture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 79,
+        "fields": {
+            "name": "Power North Software",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 80,
+        "fields": {
+            "name": "Star North Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 81,
+        "fields": {
+            "name": "Provider Resource Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 82,
+        "fields": {
+            "name": "Net Advanced Research",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 83,
+        "fields": {
+            "name": "Interactive Industries Galaxy",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 84,
+        "fields": {
+            "name": "Software Solutions",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 85,
+        "fields": {
+            "name": "South Power East",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 86,
+        "fields": {
+            "name": "Building Alpha North",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 87,
+        "fields": {
+            "name": "South Electronic",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 88,
+        "fields": {
+            "name": "Systems Venture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 89,
+        "fields": {
+            "name": "Innovation Research Provider",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 90,
+        "fields": {
+            "name": "Graphics People Digital",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 91,
+        "fields": {
+            "name": "Solutions Omega Speed",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 92,
+        "fields": {
+            "name": "Pacific Net Research",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 93,
+        "fields": {
+            "name": "Galaxy Provider Electronic",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 94,
+        "fields": {
+            "name": "Max Star",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 95,
+        "fields": {
+            "name": "Consulting Atlantic Frontier",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 96,
+        "fields": {
+            "name": "General Source Electronic",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 97,
+        "fields": {
+            "name": "Building General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 98,
+        "fields": {
+            "name": "Interactive Pacific",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 99,
+        "fields": {
+            "name": "Hill Atlantic Graphics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 100,
+        "fields": {
+            "name": "Interactive Software",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 101,
+        "fields": {
+            "name": "Construction Hardware Architecture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 102,
+        "fields": {
+            "name": "North Provider Graphics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 103,
+        "fields": {
+            "name": "Provider Speed Network",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 104,
+        "fields": {
+            "name": "Hill North General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 105,
+        "fields": {
+            "name": "Adventure Telecom Bell",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 106,
+        "fields": {
+            "name": "Medicine Interactive Architecture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 107,
+        "fields": {
+            "name": "Vision Hill",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 108,
+        "fields": {
+            "name": "Consulting Hardware Vision",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 109,
+        "fields": {
+            "name": "Solutions Resource Data",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 110,
+        "fields": {
+            "name": "Innovation Building Pacific",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 111,
+        "fields": {
+            "name": "Star Pacific Internet",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 112,
+        "fields": {
+            "name": "Solutions Industries",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 113,
+        "fields": {
+            "name": "Adventure Vision Source",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 114,
+        "fields": {
+            "name": "Omega Future Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 115,
+        "fields": {
+            "name": "North Future Hardware",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 116,
+        "fields": {
+            "name": "Vision Electronic Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 117,
+        "fields": {
+            "name": "Omega Studio Bell",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 118,
+        "fields": {
+            "name": "Vision Source",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 119,
+        "fields": {
+            "name": "Star Solutions Architecture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 120,
+        "fields": {
+            "name": "South Vision Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 121,
+        "fields": {
+            "name": "Graphics Star South",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 122,
+        "fields": {
+            "name": "North Design Data",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 123,
+        "fields": {
+            "name": "Software Star",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 124,
+        "fields": {
+            "name": "Federated Innovation Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 125,
+        "fields": {
+            "name": "Pacific Future Source",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 126,
+        "fields": {
+            "name": "Architecture Electronics Analysis",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 127,
+        "fields": {
+            "name": "Architecture Consulting Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 128,
+        "fields": {
+            "name": "Research Telecom",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 129,
+        "fields": {
+            "name": "Electronic Provider Analysis",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 130,
+        "fields": {
+            "name": "Graphics Bell Bell",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 131,
+        "fields": {
+            "name": "Direct South",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 132,
+        "fields": {
+            "name": "Speed Electronic Future",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 133,
+        "fields": {
+            "name": "People Contract Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 134,
+        "fields": {
+            "name": "Alpha Provider Application",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 135,
+        "fields": {
+            "name": "Net Power Internet",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 136,
+        "fields": {
+            "name": "Venture Star Telecom",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 137,
+        "fields": {
+            "name": "Software East",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 138,
+        "fields": {
+            "name": "Adventure Advanced Federated",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 139,
+        "fields": {
+            "name": "Data Resource",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 140,
+        "fields": {
+            "name": "Omega Medicine General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 141,
+        "fields": {
+            "name": "Network Power Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 142,
+        "fields": {
+            "name": "Power Telecom Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 143,
+        "fields": {
+            "name": "Signal Resource Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 144,
+        "fields": {
+            "name": "Net Construction Resource",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 145,
+        "fields": {
+            "name": "Hardware Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 146,
+        "fields": {
+            "name": "Net Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 147,
+        "fields": {
+            "name": "Technology Digital",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 148,
+        "fields": {
+            "name": "Electronics East Future",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 149,
+        "fields": {
+            "name": "Power Hill Star",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 150,
+        "fields": {
+            "name": "North Digital",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 151,
+        "fields": {
+            "name": "Venture Venture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 152,
+        "fields": {
+            "name": "Federated Innovation",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 153,
+        "fields": {
+            "name": "Frontier Solutions",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 154,
+        "fields": {
+            "name": "Construction Direct",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 155,
+        "fields": {
+            "name": "Omega Vision",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 156,
+        "fields": {
+            "name": "Studio Vision",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 157,
+        "fields": {
+            "name": "Consulting Research Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 158,
+        "fields": {
+            "name": "Federated Hill Architecture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 159,
+        "fields": {
+            "name": "Star Future Virtual",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 160,
+        "fields": {
+            "name": "Application Architecture Galaxy",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 161,
+        "fields": {
+            "name": "Analysis Studio Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 162,
+        "fields": {
+            "name": "Net Bell",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 163,
+        "fields": {
+            "name": "Medicine Vision Speed",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 164,
+        "fields": {
+            "name": "Solutions Industries Electronics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 165,
+        "fields": {
+            "name": "North Contract Star",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 166,
+        "fields": {
+            "name": "Venture Construction Source",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 167,
+        "fields": {
+            "name": "Source Provider",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 168,
+        "fields": {
+            "name": "Studio Vision Frontier",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 169,
+        "fields": {
+            "name": "South Vision Application",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 170,
+        "fields": {
+            "name": "South Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 171,
+        "fields": {
+            "name": "Speed Hill Frontier",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 172,
+        "fields": {
+            "name": "Data Virtual",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 173,
+        "fields": {
+            "name": "Industries Star",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 174,
+        "fields": {
+            "name": "Net Adventure",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 175,
+        "fields": {
+            "name": "Application Innovation Federated",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 176,
+        "fields": {
+            "name": "Advanced West Venture",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 177,
+        "fields": {
+            "name": "Provider Technology Adventure",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 178,
+        "fields": {
+            "name": "Interactive Internet",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 179,
+        "fields": {
+            "name": "Construction Innovation Hill",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 180,
+        "fields": {
+            "name": "South Design Innovation",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 181,
+        "fields": {
+            "name": "Signal Graphics Network",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 182,
+        "fields": {
+            "name": "Signal Graphics",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 183,
+        "fields": {
+            "name": "Speed Hill Power",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 184,
+        "fields": {
+            "name": "People Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 185,
+        "fields": {
+            "name": "Studio Design",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 186,
+        "fields": {
+            "name": "Provider Architecture Future",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 187,
+        "fields": {
+            "name": "Analysis Contract Power",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 188,
+        "fields": {
+            "name": "Max Technology North",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 189,
+        "fields": {
+            "name": "Architecture Vision General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 190,
+        "fields": {
+            "name": "Architecture Source Net",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 191,
+        "fields": {
+            "name": "Hill Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": "Soluno MEX / Office Management"
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 192,
+        "fields": {
+            "name": "Building Technology Data",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 193,
+        "fields": {
+            "name": "Source Software",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 194,
+        "fields": {
+            "name": "Star West Application",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 195,
+        "fields": {
+            "name": "Electronic Application Signal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 196,
+        "fields": {
+            "name": "Max Frontier Direct",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 197,
+        "fields": {
+            "name": "Frontier Source Technology",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 198,
+        "fields": {
+            "name": "Adventure Data Star",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 199,
+        "fields": {
+            "name": "Bell Graphics Direct",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 200,
+        "fields": {
+            "name": "Solutions Systems",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 201,
+        "fields": {
+            "name": "Graphics Galaxy Consulting",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 202,
+        "fields": {
+            "name": "Advanced Power Telecom",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 203,
+        "fields": {
+            "name": "Atlantic Adventure Virtual",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 204,
+        "fields": {
+            "name": "Vision Direct",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 205,
+        "fields": {
+            "name": "Construction Advanced",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 206,
+        "fields": {
+            "name": "Star South Atlantic",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 207,
+        "fields": {
+            "name": "Star Federated East",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 208,
+        "fields": {
+            "name": "Interactive Data General",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 209,
+        "fields": {
+            "name": "Vision Solutions Solutions",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 210,
+        "fields": {
+            "name": "Graphics Galaxy Atlantic",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 211,
+        "fields": {
+            "name": "Data Solutions Future",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 212,
+        "fields": {
+            "name": "Universal Studio Galaxy",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 213,
+        "fields": {
+            "name": "Source Resource Medicine",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 214,
+        "fields": {
+            "name": "Data Advanced Innovation",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 215,
+        "fields": {
+            "name": "West Omega",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 216,
+        "fields": {
+            "name": "Graphics Net Signal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 217,
+        "fields": {
+            "name": "Construction Speed",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 218,
+        "fields": {
+            "name": "Net Omega Building",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 219,
+        "fields": {
+            "name": "Network Graphics Universal",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 220,
+        "fields": {
+            "name": "North Hardware Network",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 221,
+        "fields": {
+            "name": "Electronic Frontier Network",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 222,
+        "fields": {
+            "name": "Max Digital",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 223,
+        "fields": {
+            "name": "Resource Bell Alpha",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 224,
+        "fields": {
+            "name": "Max Speed Vision",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 225,
+        "fields": {
+            "name": "South Digital Data",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 226,
+        "fields": {
+            "name": "Systems Power Direct",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 227,
+        "fields": {
+            "name": "Design Max",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 228,
+        "fields": {
+            "name": "Future Virtual Internet",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": "Demo"
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 229,
+        "fields": {
+            "name": "Building Signal Electronic",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 230,
+        "fields": {
+            "name": "Galaxy Data",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    },
+    {
+        "model": "organization.organization",
+        "pk": 231,
+        "fields": {
+            "name": "Data Innovation",
+            "is_sale_agent": false,
+            "is_sale_agent_organization": false,
+            "agent": null,
+            "is_sale_reseller": false,
+            "is_sale_reseller_customer": false,
+            "reseller": 1,
+            "goodsign_org_identifier": 0,
+            "odoo_org_identifier": 0,
+            "information": ""
+        }
+    }
+]

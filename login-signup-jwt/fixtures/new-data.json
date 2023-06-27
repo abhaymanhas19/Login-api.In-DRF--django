@@ -1,0 +1,1427 @@
+[
+    {
+        "model": "mobile.barringdata",
+        "pk": 1,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringdata",
+        "pk": 2,
+        "fields": {
+            "operator_code": "CFSS_DATA_BARRING",
+            "code": "P1",
+            "name": "Barring of all data traffic",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringdata",
+        "pk": 3,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringdata",
+        "pk": 4,
+        "fields": {
+            "operator_code": "KLD",
+            "code": "P1",
+            "name": "Barring of all GPRS traffic when roaming",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringmms",
+        "pk": 1,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringmms",
+        "pk": 2,
+        "fields": {
+            "operator_code": "CFSS_MMS_BARRING_MO_MT",
+            "code": "P1",
+            "name": "Barring of Multimedia Message sending and receiving",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringmms",
+        "pk": 3,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringmms",
+        "pk": 4,
+        "fields": {
+            "operator_code": "",
+            "code": "P1",
+            "name": "No clue what this is",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 1,
+        "fields": {
+            "operator_code": "60",
+            "code": "60",
+            "name": "60 €",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 2,
+        "fields": {
+            "operator_code": "100",
+            "code": "100",
+            "name": "100 €",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 3,
+        "fields": {
+            "operator_code": "200",
+            "code": "200",
+            "name": "200 €",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 4,
+        "fields": {
+            "operator_code": "300",
+            "code": "300",
+            "name": "300 €",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 5,
+        "fields": {
+            "operator_code": "500",
+            "code": "500",
+            "name": "500 €",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 6,
+        "fields": {
+            "operator_code": "9000",
+            "code": "9000",
+            "name": "9000 €",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 7,
+        "fields": {
+            "operator_code": "",
+            "code": "RAJATON",
+            "name": "RAJATON",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 8,
+        "fields": {
+            "operator_code": "60",
+            "code": "60",
+            "name": "60 €",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 9,
+        "fields": {
+            "operator_code": "100",
+            "code": "100",
+            "name": "100 €",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 10,
+        "fields": {
+            "operator_code": "200",
+            "code": "200",
+            "name": "200 €",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 11,
+        "fields": {
+            "operator_code": "300",
+            "code": "300",
+            "name": "300 €",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 12,
+        "fields": {
+            "operator_code": "500",
+            "code": "500",
+            "name": "500 €",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 13,
+        "fields": {
+            "operator_code": "1500",
+            "code": "1500",
+            "name": "1500 €",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 14,
+        "fields": {
+            "operator_code": "P0",
+            "code": "P0",
+            "name": "RAJATON",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroamingdata",
+        "pk": 15,
+        "fields": {
+            "operator_code": "KLD",
+            "code": "Data roaming esto",
+            "name": "Barring of all GPRS traffic when roaming",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroaming",
+        "pk": 1,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No restrictions",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroaming",
+        "pk": 2,
+        "fields": {
+            "operator_code": "CFSS_ROAMING_BARRING",
+            "code": "P1",
+            "name": "Allow roaming only in local national network",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringroaming",
+        "pk": 3,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No restrictions",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringroaming",
+        "pk": 4,
+        "fields": {
+            "operator_code": "OWN",
+            "code": "P1",
+            "name": "Allow roaming only in local national network ( = service area )",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 1,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 2,
+        "fields": {
+            "operator_code": "CFSS_AUTH_SMS_BARRING_P1",
+            "code": "P1",
+            "name": "P1 Barring of outgoing text messages to all service numbers and incoming push-messages in the category",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 3,
+        "fields": {
+            "operator_code": "CFSS_AUTH_SMS_BARRING_P2",
+            "code": "P2",
+            "name": "P2 Barring of outgoing text messages to service numbers for consulting and ordering and incoming push-messages in the category",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 4,
+        "fields": {
+            "operator_code": "CFSS_AUTH_SMS_BARRING_P3",
+            "code": "P3",
+            "name": "P3 Barring of outgoing text messages to entertainment service numbers and incoming push-messages in the category",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 5,
+        "fields": {
+            "operator_code": "CFSS_AUTH_SMS_BARRING_P4",
+            "code": "P4",
+            "name": "P4 Barring of outgoing text messages to adult entertainment service numbers and incoming push-messages in the category",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 6,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 7,
+        "fields": {
+            "operator_code": "SMP",
+            "code": "P1",
+            "name": "P1 Barring of outgoing text messages to all service numbers (D) and incoming push-messages in category D",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 8,
+        "fields": {
+            "operator_code": "SMH",
+            "code": "P2",
+            "name": "P2 Barring of outgoing text messages to service numbers for consulting and ordering (E) and incoming push-messages in category E",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 9,
+        "fields": {
+            "operator_code": "SMV",
+            "code": "P3",
+            "name": "P3 Barring of outgoing text messages to entertainment service numbers (F) and incoming push-messages in category F",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 10,
+        "fields": {
+            "operator_code": "SMA",
+            "code": "P4",
+            "name": "P4 Barring of outgoing text messages to adult entertainment service numbers (G) and incoming push-messages in category G",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringsms",
+        "pk": 11,
+        "fields": {
+            "operator_code": "SMR",
+            "code": "SMS esto",
+            "name": "Barring of all outgoing text messages",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 1,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 2,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_P1",
+            "code": "P1",
+            "name": "P1 Barring of outgoing calls to all service numbers",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 3,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_P2",
+            "code": "P2",
+            "name": "P2 Barring of outgoing calls to service numbers for consulting and ordering",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 4,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_P3",
+            "code": "P3",
+            "name": "P3 Barring of outgoing calls to entertainment service numbers",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 5,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_P4",
+            "code": "P4",
+            "name": "P4 Barring of outgoing calls to adult entertainment service numbers",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 6,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_U",
+            "code": "UP0",
+            "name": "U Barring of outgoing international traffic",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 7,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_U_P1",
+            "code": "UP1",
+            "name": "U+P1 Barring of outgoing international traffic and outgoing calls to all service numbers",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 8,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_U_P2",
+            "code": "UP2",
+            "name": "U+P2 Barring of outgoing international traffic and outgoing calls to service numbers for consulting and ordering",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 9,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_U_P3",
+            "code": "UP3",
+            "name": "U+P3 Barring of outgoing international traffic and outgoing calls to entertainment service numbers",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 10,
+        "fields": {
+            "operator_code": "CFSS_AUTH_CALL_BARRING_U_P4",
+            "code": "UP4",
+            "name": "U+P4 Barring of outgoing international traffic and outgoing calls to adult entertainment service numbers",
+            "carrier": 2
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 11,
+        "fields": {
+            "operator_code": "",
+            "code": "P0",
+            "name": "No barring",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 12,
+        "fields": {
+            "operator_code": "PES",
+            "code": "P1",
+            "name": "P1 Barring of outgoing calls to all service numbers (D)",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 13,
+        "fields": {
+            "operator_code": "HES",
+            "code": "P2",
+            "name": "P2 Barring of outgoing calls to service numbers for consulting and ordering (E)",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 14,
+        "fields": {
+            "operator_code": "VES",
+            "code": "P3",
+            "name": "P3 Barring of outgoing calls to entertainment service numbers (F)",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 15,
+        "fields": {
+            "operator_code": "VEA",
+            "code": "P4",
+            "name": "P4 Barring of outgoing calls to adult entertainment service numbers (G)",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 16,
+        "fields": {
+            "operator_code": "KLL",
+            "code": "Kaiken lähtevän liikenteen esto",
+            "name": "Barring of all outgoing traffic",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 17,
+        "fields": {
+            "operator_code": "KLU",
+            "code": "Ulkomaan puheluesto",
+            "name": "Barring of outgoing international traffic",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 18,
+        "fields": {
+            "operator_code": "SAT",
+            "code": "Puheluiden väliaikainen esto",
+            "name": "Balance exceeded. Allows calls only to customer service",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.barringvoice",
+        "pk": 19,
+        "fields": {
+            "operator_code": "VDE",
+            "code": "Videopuhelu esto",
+            "name": "Barring of video calls",
+            "carrier": 1
+        }
+    },
+    {
+        "model": "mobile.carrier",
+        "pk": 1,
+        "fields": {
+            "name": "Telia"
+        }
+    },
+    {
+        "model": "mobile.carrier",
+        "pk": 2,
+        "fields": {
+            "name": "DNA"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 10,
+        "fields": {
+            "name": "ISETERA150RK21"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 11,
+        "fields": {
+            "name": "ISETERA50RK21"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 12,
+        "fields": {
+            "name": "ISETERA150R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 13,
+        "fields": {
+            "name": "ISETERA2"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 14,
+        "fields": {
+            "name": "ISETERA3"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 15,
+        "fields": {
+            "name": "ISETERA4"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 16,
+        "fields": {
+            "name": "ISETERA50R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 17,
+        "fields": {
+            "name": "ISETERA300R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 18,
+        "fields": {
+            "name": "ISETERA5G600R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 19,
+        "fields": {
+            "name": "ISETERA5G1000R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 20,
+        "fields": {
+            "name": "ISETERA5"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 21,
+        "fields": {
+            "name": "ISETERA1"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 22,
+        "fields": {
+            "name": "ISETERA5G50R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 23,
+        "fields": {
+            "name": "ISETERA5G150R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 24,
+        "fields": {
+            "name": "ISETERA5G300R"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 25,
+        "fields": {
+            "name": "ISETERA5G600PP"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 26,
+        "fields": {
+            "name": "ISETERA5G300PP"
+        }
+    },
+    {
+        "model": "mobile.mobiledatacode",
+        "pk": 27,
+        "fields": {
+            "name": "ISETERA5G150PP"
+        }
+    },
+    {
+        "model": "mobile.mobilepriority",
+        "pk": 1,
+        "fields": {
+            "name": "Normal"
+        }
+    },
+    {
+        "model": "mobile.mobilepriority",
+        "pk": 2,
+        "fields": {
+            "name": "Silver"
+        }
+    },
+    {
+        "model": "mobile.mobilepriority",
+        "pk": 3,
+        "fields": {
+            "name": "Gold"
+        }
+    },
+    {
+        "model": "mobile.mobilepriority",
+        "pk": 4,
+        "fields": {
+            "name": "Platinum"
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 1,
+        "fields": {
+            "name": "Setera Basic 60 5G",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 21,
+            "dataspeed3GUp": 22,
+            "dataspeed4GDown": 21,
+            "dataspeed4GUp": 22,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 2,
+        "fields": {
+            "name": "Setera Basic 25 5G",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 22,
+            "dataspeed3GUp": 23,
+            "dataspeed4GDown": 22,
+            "dataspeed4GUp": 23,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 3,
+        "fields": {
+            "name": "Setera Basic 60",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 21,
+            "dataspeed3GUp": 22,
+            "dataspeed4GDown": 21,
+            "dataspeed4GUp": 22,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 4,
+        "fields": {
+            "name": "Setera Basic 25",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 22,
+            "dataspeed3GUp": 23,
+            "dataspeed4GDown": 22,
+            "dataspeed4GUp": 23,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 5,
+        "fields": {
+            "name": "Setera Basic 100M",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 21,
+            "dataspeed3GUp": 22,
+            "dataspeed4GDown": 21,
+            "dataspeed4GUp": 23,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 6,
+        "fields": {
+            "name": "Setera Basic 8M",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 20,
+            "dataspeed3GUp": 16,
+            "dataspeed4GDown": 20,
+            "dataspeed4GUp": 16,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 7,
+        "fields": {
+            "name": "Setera Basic 21M",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 19,
+            "dataspeed3GUp": 17,
+            "dataspeed4GDown": 19,
+            "dataspeed4GUp": 17,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 8,
+        "fields": {
+            "name": "Setera Basic 384kb",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 18,
+            "dataspeed3GUp": 18,
+            "dataspeed4GDown": 18,
+            "dataspeed4GUp": 18,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 9,
+        "fields": {
+            "name": "Setera Basic 50M",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 22,
+            "dataspeed3GUp": 23,
+            "dataspeed4GDown": 22,
+            "dataspeed4GUp": 23,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 10,
+        "fields": {
+            "name": "Setera Basic 2M",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": 16,
+            "dataspeed3GUp": 16,
+            "dataspeed4GDown": 16,
+            "dataspeed4GUp": 16,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 11,
+        "fields": {
+            "name": "Setera Data 2M/4Gb",
+            "carrier": 2,
+            "datacode": 20,
+            "dataspeed3GDown": 1,
+            "dataspeed3GUp": 1,
+            "dataspeed4GDown": 1,
+            "dataspeed4GUp": 1,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 12,
+        "fields": {
+            "name": "Setera Business Pro 50M",
+            "carrier": 2,
+            "datacode": 16,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 15,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 13,
+        "fields": {
+            "name": "Setera Data 21M",
+            "carrier": 2,
+            "datacode": 13,
+            "dataspeed3GDown": 2,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 2,
+            "dataspeed4GUp": 13,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 14,
+        "fields": {
+            "name": "Setera Data 100M",
+            "carrier": 2,
+            "datacode": 15,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 6,
+            "dataspeed4GUp": 6,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 15,
+        "fields": {
+            "name": "Setera Data 150M 5G",
+            "carrier": 2,
+            "datacode": 23,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 7,
+            "dataspeed4GUp": 15,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 17,
+        "fields": {
+            "name": "Setera Data 8M/5Gb",
+            "carrier": 2,
+            "datacode": 21,
+            "dataspeed3GDown": 4,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 4,
+            "dataspeed4GUp": 13,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 18,
+        "fields": {
+            "name": "Setera Data 1000M 5G",
+            "carrier": 2,
+            "datacode": 19,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 10,
+            "dataspeed4GUp": 8,
+            "voicepackage": null,
+            "priority": 4
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 19,
+        "fields": {
+            "name": "Setera Data 300M 5G",
+            "carrier": 2,
+            "datacode": 24,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 8,
+            "dataspeed4GUp": 15,
+            "voicepackage": null,
+            "priority": 2
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 20,
+        "fields": {
+            "name": "Setera Data 150M",
+            "carrier": 2,
+            "datacode": 12,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 11,
+            "dataspeed4GDown": 7,
+            "dataspeed4GUp": 15,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 21,
+        "fields": {
+            "name": "Setera Data 300M",
+            "carrier": 2,
+            "datacode": 17,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 8,
+            "dataspeed4GUp": 15,
+            "voicepackage": null,
+            "priority": 2
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 22,
+        "fields": {
+            "name": "Setera Data 50M",
+            "carrier": 2,
+            "datacode": 14,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 15,
+            "dataspeed4GUp": 15,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 24,
+        "fields": {
+            "name": "Setera Business Pro 150M 5G",
+            "carrier": 2,
+            "datacode": 27,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 7,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 25,
+        "fields": {
+            "name": "Setera Business Pro 300M 5G",
+            "carrier": 2,
+            "datacode": 26,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 8,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 2
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 26,
+        "fields": {
+            "name": "Setera Business Pro 600M 5G",
+            "carrier": 2,
+            "datacode": 25,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 9,
+            "dataspeed4GUp": 8,
+            "voicepackage": 1,
+            "priority": 3
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 27,
+        "fields": {
+            "name": "Setera Business Pro 150M",
+            "carrier": 2,
+            "datacode": 10,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 11,
+            "dataspeed4GDown": 7,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 28,
+        "fields": {
+            "name": "Setera Data 50M 5G",
+            "carrier": 2,
+            "datacode": 22,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 15,
+            "dataspeed4GUp": 15,
+            "voicepackage": null,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 29,
+        "fields": {
+            "name": "Setera Data 600M 5G",
+            "carrier": 2,
+            "datacode": 18,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 13,
+            "dataspeed4GDown": 9,
+            "dataspeed4GUp": 8,
+            "voicepackage": null,
+            "priority": 3
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 30,
+        "fields": {
+            "name": "Setera Business Pro 50M kampanja",
+            "carrier": 2,
+            "datacode": 11,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 11,
+            "dataspeed4GDown": 15,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 31,
+        "fields": {
+            "name": "Ilman dataa",
+            "carrier": 2,
+            "datacode": null,
+            "dataspeed3GDown": null,
+            "dataspeed3GUp": null,
+            "dataspeed4GDown": null,
+            "dataspeed4GUp": null,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 32,
+        "fields": {
+            "name": "Ilman dataa",
+            "carrier": 1,
+            "datacode": null,
+            "dataspeed3GDown": null,
+            "dataspeed3GUp": null,
+            "dataspeed4GDown": null,
+            "dataspeed4GUp": null,
+            "voicepackage": null,
+            "priority": null
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 33,
+        "fields": {
+            "name": "Setera Business Pro 150M MEX",
+            "carrier": 2,
+            "datacode": 10,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 11,
+            "dataspeed4GDown": 7,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.mobileproduct",
+        "pk": 34,
+        "fields": {
+            "name": "Setera Business Pro 50M MEX",
+            "carrier": 2,
+            "datacode": 11,
+            "dataspeed3GDown": 3,
+            "dataspeed3GUp": 11,
+            "dataspeed4GDown": 15,
+            "dataspeed4GUp": 15,
+            "voicepackage": 1,
+            "priority": 1
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 1,
+        "fields": {
+            "name": "2 Mbit/s",
+            "carrier": 2,
+            "value": "2 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 2,
+        "fields": {
+            "name": "21 Mbit/s",
+            "carrier": 2,
+            "value": "21 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 3,
+        "fields": {
+            "name": "42 Mbit/s",
+            "carrier": 2,
+            "value": "42 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 4,
+        "fields": {
+            "name": "8 Mbit/s",
+            "carrier": 2,
+            "value": "8 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 6,
+        "fields": {
+            "name": "100 Mbit/s",
+            "carrier": 2,
+            "value": "100 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 7,
+        "fields": {
+            "name": "150 Mbit/s",
+            "carrier": 2,
+            "value": "150 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 8,
+        "fields": {
+            "name": "300 Mbit/s",
+            "carrier": 2,
+            "value": "300 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 9,
+        "fields": {
+            "name": "600 Mbit/s",
+            "carrier": 2,
+            "value": "600 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 10,
+        "fields": {
+            "name": "1000 Mbit/s",
+            "carrier": 2,
+            "value": "1000 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 11,
+        "fields": {
+            "name": "8,6 Mbit/s",
+            "carrier": 2,
+            "value": "8,6 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 12,
+        "fields": {
+            "name": "8,64 Mbit/s",
+            "carrier": 2,
+            "value": "8,64 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 13,
+        "fields": {
+            "name": "5,6 Mbit/s",
+            "carrier": 2,
+            "value": "5,6 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 14,
+        "fields": {
+            "name": "25 Mbit/s",
+            "carrier": 2,
+            "value": "25 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 15,
+        "fields": {
+            "name": "50 Mbit/s",
+            "carrier": 2,
+            "value": "50 Mbit/s"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 16,
+        "fields": {
+            "name": "2 Mbit/s",
+            "carrier": 1,
+            "value": "2000"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 17,
+        "fields": {
+            "name": "5 Mbit/s",
+            "carrier": 1,
+            "value": "50000"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 18,
+        "fields": {
+            "name": "0,384 Mbit/s",
+            "carrier": 1,
+            "value": "384"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 19,
+        "fields": {
+            "name": "21 Mbit/s",
+            "carrier": 1,
+            "value": "21000"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 20,
+        "fields": {
+            "name": "8 Mbit/s",
+            "carrier": 1,
+            "value": "8000"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 21,
+        "fields": {
+            "name": "100 Mbit/s",
+            "carrier": 1,
+            "value": "100000"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 22,
+        "fields": {
+            "name": "50 Mbit/s",
+            "carrier": 1,
+            "value": "50000"
+        }
+    },
+    {
+        "model": "mobile.subscriptiondataspeed",
+        "pk": 23,
+        "fields": {
+            "name": "25 Mbit/s",
+            "carrier": 1,
+            "value": "25000"
+        }
+    },
+    {
+        "model": "mobile.subscriptionvoicepackage",
+        "pk": 1,
+        "fields": {
+            "name": "SETERA500MIN",
+            "carrier": 2,
+            "value": "500"
+        }
+    }
+]
