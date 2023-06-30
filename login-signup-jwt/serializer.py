@@ -160,3 +160,44 @@ class AdminAddUserSerializer(serializers.ModelSerializer):
         user = SeteraUser.objects.create_user(**validated_data)
         send_passwod(user.email, gen_pass)
         return user
+
+
+
+
+
+
+
+
+class ForgetPasswordSerializer(serializers.Serializer):
+    email = serializers.EmailField()
+
+    def validate(self, attrs):
+        email = attrs.get("email")
+        # print(email)
+        obj = SeteraUser.objects.filter(email=email).exists()
+        if not obj:
+            raise ValidationError("Email Not Exists")
+        return super().validate(attrs)
+
+
+class VerifyPasswordSerializer(serializers.Serializer):
+    password = serializers.CharField(
+        label=_("Password"), style={"input_type": "password"}
+    )
+    confirm_password = serializers.CharField(
+        label=_("confirm_password"), style={"input_type": "password"}
+    )
+    token = serializers.CharField()
+
+    def validate_password(self, value):
+        data = self.get_initial()
+        password = data.get("confirm_password")
+        confirm_password = value
+        if password != confirm_password:
+            raise ValidationError("Passwords and Confirm password not  matching")
+        return value
+
+    def validate_token(self, value):
+        if not EmailToken.objects.filter(email_token=value).exists():
+            raise serializers.ValidationError("Invalid Token")
+        return value
