@@ -169,3 +169,81 @@ class UserDetailsAPi(orginizationModelMixin, viewsets.ModelViewSet):
             .get_queryset()
             .filter(organization=self.request.headers["organization"])
         )
+
+
+
+
+
+
+
+class ForgetApiView(generics.CreateAPIView):
+    serializer_class = ForgetPasswordSerializer
+    permission_classes = ()
+
+    def create(self, request, *args, **kwargs):
+        token = uuid.uuid1()
+        serializer = self.serializer_class(data=request.data)
+        if serializer.is_valid(raise_exception=True):
+            email = serializer.data["email"]
+            user = SeteraUser.objects.filter(email=email).first()
+            token_instance, _ = EmailToken.objects.get_or_create(user=user)
+            token_instance.email_token = token
+            token_instance.save()
+            send_reset_password_token(
+                email,
+                token,
+            )
+            return Response({"message": "Email Send Succefully"})
+        return Response(
+            {"message": "Not valid Email"}, status=status.HTTP_400_BAD_REQUEST
+        )
+
+
+class VerifyResetPassword(generics.CreateAPIView):
+    serializer_class = VerifyPasswordSerializer
+    permission_classes = ()
+
+    def post(self, request,token, *args, **kwargs):
+      
+        serializer = VerifyPasswordSerializer(data=request.data)
+        if serializer.is_valid(raise_exception=True):
+            token = serializer.validated_data["token"]
+            newpassword = serializer.validated_data["password"]
+            token_instance = EmailToken.objects.filter(email_token=token).first()
+            user = token_instance.user
+            user.set_password(newpassword)
+            user.save()
+            token_instance.delete()
+            return Response(
+                {"message": "password updated successfully"},
+                status=status.HTTP_202_ACCEPTED,
+            )
+
+        return Response(
+            {"message": "Invalid Email or Token"}, status=status.HTTP_400_BAD_REQUEST
+        )
+
+
+
+
+
+# class ResetPasswordConfirmView(ResetPasswordConfirm):
+#     serializer_class = ChangePasswordSerializer
+#     """
+#     An Api ViewSet which provides a method to reset a password based on a unique token
+#     """
+
+#     def post(self, request, reset_password_token, *args, **kwargs):
+#         serializer = self.serializer_class(data=request.data)
+
+#         reset_password_token = ResetPasswordToken.objects.filter(
+#             key=reset_password_token
+#         ).first()
+
+#         def __init__(self):
+#             print("init")
+
+#         if reset_password_token:
+#             return super().post(request, *args, **kwargs)
+#         else:
+#             return Response({"message": "invaild Request or Token"})
