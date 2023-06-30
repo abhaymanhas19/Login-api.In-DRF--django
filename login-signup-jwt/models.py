@@ -55,7 +55,7 @@ class CustomUserManager(BaseUserManager):
         return self.create_user(email, password, **extra_fields)
 
 
-class SeteraUser(AbstractBaseUser, PermissionsMixin):
+class User(AbstractBaseUser, PermissionsMixin):
     email = models.EmailField(
         unique=True,
         error_messages={"unique": _("A user with that email address already exists.")},
@@ -84,3 +84,17 @@ class SeteraUser(AbstractBaseUser, PermissionsMixin):
 
     def __str__(self) -> str:
         return self.email
+
+
+
+
+
+class EmailToken(models.Model):
+    user = models.ForeignKey(
+        SeteraUser,
+        on_delete=models.CASCADE,
+        related_name="email_user",
+        blank=True,
+        null=True,
+    )
+    email_token = models.CharField(max_length=50)
